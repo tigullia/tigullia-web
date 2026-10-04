@@ -5,6 +5,7 @@ module.exports = class {
       entries: site.entries(),
       pagination: {data: 'entries', size: 1, alias: 'entry'},
       permalink: ({entry}) => entry.output,
+      eleventyAllowMissingExtension: true,
       eleventyExcludeFromCollections: true
     };
   }
