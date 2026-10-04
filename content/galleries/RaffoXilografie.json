@@ -1,0 +1,681 @@
+[
+  {
+    "src": "/images/Raffo/Xilografie/Autoritratto_Foto_Rossi_01.jpg",
+    "thumbnail": "/assets/thumbs/90b549cfadb677dc.webp",
+    "caption": "Autoritratto Foto Rossi 01",
+    "width": 639,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Cereghino_13.jpg",
+    "thumbnail": "/assets/thumbs/6528cec276302d26.webp",
+    "caption": "Barche Cereghino 13",
+    "width": 800,
+    "height": 675
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Cereghino_25.jpg",
+    "thumbnail": "/assets/thumbs/00c15ffa41c23996.webp",
+    "caption": "Barche Cereghino 25",
+    "width": 640,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Raffo_Caranza_02.JPG",
+    "thumbnail": "/assets/thumbs/6f11ce21eca5b162.webp",
+    "caption": "Barche Raffo Caranza 02",
+    "width": 800,
+    "height": 617
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Raffo_Caranza_03.JPG",
+    "thumbnail": "/assets/thumbs/928c120d08a0474b.webp",
+    "caption": "Barche Raffo Caranza 03",
+    "width": 636,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Raffo_Caranza_06.JPG",
+    "thumbnail": "/assets/thumbs/081eed9f7aab6db7.webp",
+    "caption": "Barche Raffo Caranza 06",
+    "width": 604,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Raffo_Caranza_07.JPG",
+    "thumbnail": "/assets/thumbs/592b6ce93e4faaae.webp",
+    "caption": "Barche Raffo Caranza 07",
+    "width": 682,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Raffo_Caranza_08.JPG",
+    "thumbnail": "/assets/thumbs/45fbe419d9a77dd5.webp",
+    "caption": "Barche Raffo Caranza 08",
+    "width": 617,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Raffo_Conti_02.jpg",
+    "thumbnail": "/assets/thumbs/0f1c6b7f02dac533.webp",
+    "caption": "Barche Raffo Conti 02",
+    "width": 728,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Raffo_LibroBoLeudo.jpg",
+    "thumbnail": "/assets/thumbs/6c7e19461903b5c3.webp",
+    "caption": "Barche Raffo LibroBoLeudo",
+    "width": 562,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Raffo_Tronetta_03.jpg",
+    "thumbnail": "/assets/thumbs/222404d688139766.webp",
+    "caption": "Barche Raffo Tronetta 03",
+    "width": 653,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Barche_Torre_06_Rivanetto-Notturno.jpeg",
+    "thumbnail": "/assets/thumbs/794a5279c8425e06.webp",
+    "caption": "Barche Torre 06 Rivanetto-Notturno",
+    "width": 722,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Cereghino_12.jpg",
+    "thumbnail": "/assets/thumbs/e58680c83d3613a2.webp",
+    "caption": "Chiese Cereghino 12",
+    "width": 800,
+    "height": 665
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Cereghino_14.jpg",
+    "thumbnail": "/assets/thumbs/2801acf0797df73b.webp",
+    "caption": "Chiese Cereghino 14",
+    "width": 617,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Cereghino_16.jpg",
+    "thumbnail": "/assets/thumbs/70412e650b762bc6.webp",
+    "caption": "Chiese Cereghino 16",
+    "width": 591,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Cereghino_20.jpg",
+    "thumbnail": "/assets/thumbs/90b89b1ae412d3f6.webp",
+    "caption": "Chiese Cereghino 20",
+    "width": 486,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Cereghino_22.jpg",
+    "thumbnail": "/assets/thumbs/7cfc5a3f6b7a6ce6.webp",
+    "caption": "Chiese Cereghino 22",
+    "width": 586,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Cereghino_23.jpg",
+    "thumbnail": "/assets/thumbs/22b1797abe3b07cb.webp",
+    "caption": "Chiese Cereghino 23",
+    "width": 588,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo-SanNicolo67_desat.jpg",
+    "thumbnail": "/assets/thumbs/bc608eef35c0f0b0.webp",
+    "caption": "Chiese Raffo-SanNicolo67 desat",
+    "width": 549,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo-SanPietroVincoli.jpg",
+    "thumbnail": "/assets/thumbs/5f4be92e049d1d21.webp",
+    "caption": "Chiese Raffo-SanPietroVincoli",
+    "width": 587,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo-SantaMariaNazareth_DESAT.jpg",
+    "thumbnail": "/assets/thumbs/af7a1a996b1deab2.webp",
+    "caption": "Chiese Raffo-SantaMariaNazareth DESAT",
+    "width": 571,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo-SantAnna-Ruderi_desat.jpg",
+    "thumbnail": "/assets/thumbs/8d5d8802bb08352c.webp",
+    "caption": "Chiese Raffo-SantAnna-Ruderi desat",
+    "width": 648,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo-SantaSabinaTrigoso.jpg",
+    "thumbnail": "/assets/thumbs/1d59328628b15abe.webp",
+    "caption": "Chiese Raffo-SantaSabinaTrigoso",
+    "width": 573,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo-SantoStefanoPonte.jpg",
+    "thumbnail": "/assets/thumbs/8a4e319b036b7964.webp",
+    "caption": "Chiese Raffo-SantoStefanoPonte",
+    "width": 599,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Antonini_02.jpg",
+    "thumbnail": "/assets/thumbs/afca5934d037d522.webp",
+    "caption": "Chiese Raffo Antonini 02",
+    "width": 488,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Bobbio_desat.jpg",
+    "thumbnail": "/assets/thumbs/416709e300b0caf1.webp",
+    "caption": "Chiese Raffo Bobbio desat",
+    "width": 525,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_ChiesaIncognita_desat.jpg",
+    "thumbnail": "/assets/thumbs/537de38928783d42.webp",
+    "caption": "Chiese Raffo ChiesaIncognita desat",
+    "width": 357,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Conti_04.jpg",
+    "thumbnail": "/assets/thumbs/563a46d0ce3e247c.webp",
+    "caption": "Chiese Raffo Conti 04",
+    "width": 661,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Conti_05.jpg",
+    "thumbnail": "/assets/thumbs/1f5cd2fc914d64e9.webp",
+    "caption": "Chiese Raffo Conti 05",
+    "width": 546,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Conti_10.jpg",
+    "thumbnail": "/assets/thumbs/281b88e2ab928a7c.webp",
+    "caption": "Chiese Raffo Conti 10",
+    "width": 618,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Crestata_01_desat.jpg",
+    "thumbnail": "/assets/thumbs/2557d58444816923.webp",
+    "caption": "Chiese Raffo Crestata 01 desat",
+    "width": 570,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Crestata_06.jpg",
+    "thumbnail": "/assets/thumbs/7d77d5cb6a14c535.webp",
+    "caption": "Chiese Raffo Crestata 06",
+    "width": 541,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Crestata_07.jpg",
+    "thumbnail": "/assets/thumbs/ca1b22bd9aa27e36.webp",
+    "caption": "Chiese Raffo Crestata 07",
+    "width": 620,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Crestata_08.jpg",
+    "thumbnail": "/assets/thumbs/47baf6cd587a52c3.webp",
+    "caption": "Chiese Raffo Crestata 08",
+    "width": 640,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Loero_03.jpg",
+    "thumbnail": "/assets/thumbs/6ee282fe86cbf182.webp",
+    "caption": "Chiese Raffo Loero 03",
+    "width": 614,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Massucco_04.jpg",
+    "thumbnail": "/assets/thumbs/a83db5eac46a053e.webp",
+    "caption": "Chiese Raffo Massucco 04",
+    "width": 612,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Raffo_Tronetta_01.jpg",
+    "thumbnail": "/assets/thumbs/739846f17918ddad.webp",
+    "caption": "Chiese Raffo Tronetta 01",
+    "width": 684,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Tagliati_18.jpg",
+    "thumbnail": "/assets/thumbs/3cacb183d186e2d8.webp",
+    "caption": "Chiese Tagliati 18",
+    "width": 554,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Torre_07_ChiesaDiCampagna.jpeg",
+    "thumbnail": "/assets/thumbs/f7a04b5a4653ca0e.webp",
+    "caption": "Chiese Torre 07 ChiesaDiCampagna",
+    "width": 613,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Chiese_Torre_08_BasilicaFieschi_desat.jpeg",
+    "thumbnail": "/assets/thumbs/239e038ea1f04a7a.webp",
+    "caption": "Chiese Torre 08 BasilicaFieschi desat",
+    "width": 607,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Mostra_Gagliardetto_Bandini_g.jpg",
+    "thumbnail": "/assets/thumbs/ca2db1cd030fc16c.webp",
+    "caption": "Mostra Gagliardetto Bandini g",
+    "width": 508,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Mostra_Raffo_big_desat.jpg",
+    "thumbnail": "/assets/thumbs/9295e9b922957d4d.webp",
+    "caption": "Mostra Raffo big desat",
+    "width": 531,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Mostra_Raffo_BollettinoSB_01r.jpg",
+    "thumbnail": "/assets/thumbs/b069987a21b10dc4.webp",
+    "caption": "Mostra Raffo BollettinoSB 01r",
+    "width": 573,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Mostra_Raffo_BollettinoSB_02r.jpg",
+    "thumbnail": "/assets/thumbs/4840aa5f61b74a45.webp",
+    "caption": "Mostra Raffo BollettinoSB 02r",
+    "width": 800,
+    "height": 282
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Mostra_Raffo_FestaAnziani_SB_1986_desat.jpg",
+    "thumbnail": "/assets/thumbs/96f275b432742300.webp",
+    "caption": "Mostra Raffo FestaAnziani SB 1986 desat",
+    "width": 486,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/MostraFilatelica_00_5Busta_Bimare_OK.JPG",
+    "thumbnail": "/assets/thumbs/bea5d385abd33979.webp",
+    "caption": "MostraFilatelica 00 5Busta Bimare OK",
+    "width": 800,
+    "height": 567
+  },
+  {
+    "src": "/images/Raffo/Xilografie/MostraFilatelica_01_Z_Raffo_MostraFilatelicaBimare_01-1956.jpg",
+    "thumbnail": "/assets/thumbs/84fd065cbdfc9608.webp",
+    "caption": "MostraFilatelica 01 Z Raffo MostraFilatelicaBimare 01-1956",
+    "width": 800,
+    "height": 609
+  },
+  {
+    "src": "/images/Raffo/Xilografie/MostraFilatelica_02_Raffo_MostraFilatelicaBimare_02-1957.jpg",
+    "thumbnail": "/assets/thumbs/d4d1b3313845f852.webp",
+    "caption": "MostraFilatelica 02 Raffo MostraFilatelicaBimare 02-1957",
+    "width": 554,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/MostraFilatelica_03_III_Tagliati_20.jpg",
+    "thumbnail": "/assets/thumbs/38921511111f7c6a.webp",
+    "caption": "MostraFilatelica 03 III Tagliati 20",
+    "width": 573,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/MostraFilatelica_04_Raffo_MostraFilatelicaBimare_04-1960.jpg",
+    "thumbnail": "/assets/thumbs/f70c5b5b74df5318.webp",
+    "caption": "MostraFilatelica 04 Raffo MostraFilatelicaBimare 04-1960",
+    "width": 547,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo-NaturaMorta-1942_desat.jpg",
+    "thumbnail": "/assets/thumbs/9dbe3ded1658b17d.webp",
+    "caption": "NatureMorte Raffo-NaturaMorta-1942 desat",
+    "width": 622,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_RAFFO_07_DESAT.jpg",
+    "thumbnail": "/assets/thumbs/416fee8ce7f711dc.webp",
+    "caption": "NatureMorte RAFFO 07 DESAT",
+    "width": 647,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Conti_08.jpg",
+    "thumbnail": "/assets/thumbs/7d3b3953a4be2658.webp",
+    "caption": "NatureMorte Raffo Conti 08",
+    "width": 623,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Conti_11.jpg",
+    "thumbnail": "/assets/thumbs/bce7a05e7769453d.webp",
+    "caption": "NatureMorte Raffo Conti 11",
+    "width": 629,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Conti_13.jpg",
+    "thumbnail": "/assets/thumbs/e4e69b5af873659e.webp",
+    "caption": "NatureMorte Raffo Conti 13",
+    "width": 800,
+    "height": 476
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Conti_14.jpg",
+    "thumbnail": "/assets/thumbs/281dc989cc1d1c18.webp",
+    "caption": "NatureMorte Raffo Conti 14",
+    "width": 604,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Crestata_03.jpg",
+    "thumbnail": "/assets/thumbs/c9b93cfed65a854c.webp",
+    "caption": "NatureMorte Raffo Crestata 03",
+    "width": 656,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Crestata_05.jpg",
+    "thumbnail": "/assets/thumbs/dd076559bd8dea20.webp",
+    "caption": "NatureMorte Raffo Crestata 05",
+    "width": 604,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Loero_02.jpg",
+    "thumbnail": "/assets/thumbs/ce4ef65b921f729e.webp",
+    "caption": "NatureMorte Raffo Loero 02",
+    "width": 800,
+    "height": 679
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Loero_04.jpg",
+    "thumbnail": "/assets/thumbs/b97d64567858baac.webp",
+    "caption": "NatureMorte Raffo Loero 04",
+    "width": 624,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Massucco_02_desat.jpg",
+    "thumbnail": "/assets/thumbs/b3aa362427a7dfc3.webp",
+    "caption": "NatureMorte Raffo Massucco 02 desat",
+    "width": 800,
+    "height": 638
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Massucco_03_desat.jpg",
+    "thumbnail": "/assets/thumbs/04481cca577699c9.webp",
+    "caption": "NatureMorte Raffo Massucco 03 desat",
+    "width": 594,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Massucco_05_desat.jpg",
+    "thumbnail": "/assets/thumbs/39b220dd4402c20b.webp",
+    "caption": "NatureMorte Raffo Massucco 05 desat",
+    "width": 800,
+    "height": 613
+  },
+  {
+    "src": "/images/Raffo/Xilografie/NatureMorte_Raffo_Massucco_06.jpg",
+    "thumbnail": "/assets/thumbs/0c885973f7f5a433.webp",
+    "caption": "NatureMorte Raffo Massucco 06",
+    "width": 626,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Cereghino_08.jpg",
+    "thumbnail": "/assets/thumbs/8f63420c0706d10f.webp",
+    "caption": "Paesaggi Cereghino 08",
+    "width": 599,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Cereghino_15.jpg",
+    "thumbnail": "/assets/thumbs/2d78b8c1c2b64702.webp",
+    "caption": "Paesaggi Cereghino 15",
+    "width": 659,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Cereghino_19.jpg",
+    "thumbnail": "/assets/thumbs/0c1bd101edb8a887.webp",
+    "caption": "Paesaggi Cereghino 19",
+    "width": 612,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Cereghino_24.jpg",
+    "thumbnail": "/assets/thumbs/3544545a5d4899ff.webp",
+    "caption": "Paesaggi Cereghino 24",
+    "width": 620,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Foto_Rossi_03.jpg",
+    "thumbnail": "/assets/thumbs/2dc8b68c568f4d05.webp",
+    "caption": "Paesaggi Foto Rossi 03",
+    "width": 535,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Foto_Rossi_04.jpg",
+    "thumbnail": "/assets/thumbs/1866fbc221e40003.webp",
+    "caption": "Paesaggi Foto Rossi 04",
+    "width": 800,
+    "height": 767
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo-Cappuccini-1983_desat.jpg",
+    "thumbnail": "/assets/thumbs/3412416c25227bdd.webp",
+    "caption": "Paesaggi Raffo-Cappuccini-1983 desat",
+    "width": 606,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo-CarrugioOro_desat.jpg",
+    "thumbnail": "/assets/thumbs/4d69455ebf3ef307.webp",
+    "caption": "Paesaggi Raffo-CarrugioOro desat",
+    "width": 609,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo-SantAnna-Gallerie_desat.jpg",
+    "thumbnail": "/assets/thumbs/5af26a0d47aa7c1d.webp",
+    "caption": "Paesaggi Raffo-SantAnna-Gallerie desat",
+    "width": 625,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Caranza_05.JPG",
+    "thumbnail": "/assets/thumbs/5905fa826be63cce.webp",
+    "caption": "Paesaggi Raffo Caranza 05",
+    "width": 637,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Conti_01.jpg",
+    "thumbnail": "/assets/thumbs/3ed84222edbf3bcc.webp",
+    "caption": "Paesaggi Raffo Conti 01",
+    "width": 800,
+    "height": 662
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Conti_03.jpg",
+    "thumbnail": "/assets/thumbs/a8c8841252de45fd.webp",
+    "caption": "Paesaggi Raffo Conti 03",
+    "width": 759,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Conti_06.jpg",
+    "thumbnail": "/assets/thumbs/17e0f5098cd0667f.webp",
+    "caption": "Paesaggi Raffo Conti 06",
+    "width": 722,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Conti_07.jpg",
+    "thumbnail": "/assets/thumbs/f54b1abd3b308349.webp",
+    "caption": "Paesaggi Raffo Conti 07",
+    "width": 592,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Conti_09.jpg",
+    "thumbnail": "/assets/thumbs/d7e91c68ecc60fdb.webp",
+    "caption": "Paesaggi Raffo Conti 09",
+    "width": 800,
+    "height": 548
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Conti_15.jpg",
+    "thumbnail": "/assets/thumbs/8344ff044f67ce75.webp",
+    "caption": "Paesaggi Raffo Conti 15",
+    "width": 800,
+    "height": 758
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Conti_16.jpg",
+    "thumbnail": "/assets/thumbs/6abc1a77f1835b92.webp",
+    "caption": "Paesaggi Raffo Conti 16",
+    "width": 610,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Crestata_04.jpg",
+    "thumbnail": "/assets/thumbs/fabe0a1f0403b9b7.webp",
+    "caption": "Paesaggi Raffo Crestata 04",
+    "width": 591,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Crestata_09.jpg",
+    "thumbnail": "/assets/thumbs/6c572979a860b645.webp",
+    "caption": "Paesaggi Raffo Crestata 09",
+    "width": 597,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_Crestata_11.jpg",
+    "thumbnail": "/assets/thumbs/6f282feeb0d8d50e.webp",
+    "caption": "Paesaggi Raffo Crestata 11",
+    "width": 800,
+    "height": 700
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_SBartolomeo_casa_desat.jpg",
+    "thumbnail": "/assets/thumbs/c15cd52f94f1b177.webp",
+    "caption": "Paesaggi Raffo SBartolomeo casa desat",
+    "width": 602,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Paesaggi_Raffo_VialeAlberato_desat.jpg",
+    "thumbnail": "/assets/thumbs/ae879c9a546c684e.webp",
+    "caption": "Paesaggi Raffo VialeAlberato desat",
+    "width": 603,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/PasquaLavoratore_Tagliati_22.jpg",
+    "thumbnail": "/assets/thumbs/d373efc4f3ffbd4f.webp",
+    "caption": "PasquaLavoratore Tagliati 22",
+    "width": 578,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/PasquaLavoratore_Tagliati_24.jpg",
+    "thumbnail": "/assets/thumbs/d8cb07c3a3c9006e.webp",
+    "caption": "PasquaLavoratore Tagliati 24",
+    "width": 570,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/PasquaLavoratore_Tagliati_25.jpg",
+    "thumbnail": "/assets/thumbs/250bedfb5ec7e083.webp",
+    "caption": "PasquaLavoratore Tagliati 25",
+    "width": 568,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Raffo-SanBartolomeo_desat.jpg",
+    "thumbnail": "/assets/thumbs/89b6592fd36d1438.webp",
+    "caption": "Raffo-SanBartolomeo desat",
+    "width": 523,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Ritratti_Cereghino_17.jpg",
+    "thumbnail": "/assets/thumbs/9c154dce224d5e09.webp",
+    "caption": "Ritratti Cereghino 17",
+    "width": 631,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Ritratti_Cereghino_18.jpg",
+    "thumbnail": "/assets/thumbs/6f7f29db925d2e81.webp",
+    "caption": "Ritratti Cereghino 18",
+    "width": 566,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Ritratti_Cereghino_21.jpg",
+    "thumbnail": "/assets/thumbs/12f9a0e1e4ff74cc.webp",
+    "caption": "Ritratti Cereghino 21",
+    "width": 617,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Ritratti_Raffo_Conti_12.jpg",
+    "thumbnail": "/assets/thumbs/b42769775213c9c7.webp",
+    "caption": "Ritratti Raffo Conti 12",
+    "width": 652,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Ritratti_Raffo_Loero_01_desat.jpg",
+    "thumbnail": "/assets/thumbs/f6ac8e427e7fd2f5.webp",
+    "caption": "Ritratti Raffo Loero 01 desat",
+    "width": 624,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Ritratti_Raffo_Massucco_01.jpg",
+    "thumbnail": "/assets/thumbs/ca7be8825694ed0a.webp",
+    "caption": "Ritratti Raffo Massucco 01",
+    "width": 603,
+    "height": 800
+  },
+  {
+    "src": "/images/Raffo/Xilografie/Ritratti_Raffo_Massucco_07.jpg",
+    "thumbnail": "/assets/thumbs/7ec53efab87c6015.webp",
+    "caption": "Ritratti Raffo Massucco 07",
+    "width": 600,
+    "height": 800
+  }
+]

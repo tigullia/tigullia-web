@@ -1,0 +1,18 @@
+{
+  "name": "tigullia-web",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Documenti, immagini e personaggi della Riviera Ligure di Levante",
+  "scripts": {
+    "build": "eleventy && node scripts/check-site.cjs",
+    "start": "eleventy --serve",
+    "build:portable": "node scripts/build-portable.cjs && node scripts/check-site.cjs",
+    "preview:portable": "npm run build:portable && node scripts/serve.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "3.1.6"
+  }
+}

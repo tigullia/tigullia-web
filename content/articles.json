@@ -1,0 +1,326 @@
+[
+  {
+    "id": 2,
+    "title": "TIGULLIA",
+    "url": "/",
+    "file": "02-benvenuto.html",
+    "description": "Documenti, immagini e personaggi della Riviera Ligure di Levante ...Tigullia, indicata nella cartografia tolemaica tramandataci da Arabi e Bizantini, appare situata all'interno di",
+    "modified": "2021-07-17",
+    "section": "home"
+  },
+  {
+    "id": 3,
+    "title": "Eugenio Mario Raffo - Biografia",
+    "url": "/personaggi/eugenio-mario-raffo/",
+    "file": "03-eugenio-mario-raffo.html",
+    "description": "Eugenio Mario Raffo nacque a Sestri Levante, nella frazione di San Bartolomeo della Ginestra, il 25 Gennaio 1904, in una delle storiche case del borgo, affacciata sulla piazza dell",
+    "modified": "2021-07-11",
+    "section": "personaggi"
+  },
+  {
+    "id": 4,
+    "title": "Giulio Luigi Podestà - Biografia",
+    "url": "/personaggi/giulio-luigi-podesta/",
+    "file": "04-giulio-luigi-podesta-biografia.html",
+    "description": "Giulio Luigi Podestà nacque il 6 Maggio 1893 a Genova, in Vico Giannini, all'angolo con la via dei portici di Sottoripa, nei pressi di Piazza Caricamento, da Eugenio Podestà, ingeg",
+    "modified": "2021-07-03",
+    "section": "personaggi"
+  },
+  {
+    "id": 6,
+    "title": "Ex Libris",
+    "url": "/personaggi/eugenio-mario-raffo/ex-libris-xilografici/",
+    "file": "06-raffo-ex-libris.html",
+    "description": "",
+    "modified": "2021-07-04",
+    "section": "personaggi"
+  },
+  {
+    "id": 7,
+    "title": "Caduti di Superga",
+    "url": "/personaggi/eugenio-mario-raffo/caduti-di-superga/",
+    "file": "07-raffo-caduti-superga.html",
+    "description": "",
+    "modified": "2021-07-04",
+    "section": "personaggi"
+  },
+  {
+    "id": 8,
+    "title": "Fabio Riva",
+    "url": "/personaggi/eugenio-mario-raffo/fabio-riva/",
+    "file": "08-raffo-fabio-riva.html",
+    "description": "",
+    "modified": "2021-07-04",
+    "section": "personaggi"
+  },
+  {
+    "id": 9,
+    "title": "PF Xilografici",
+    "url": "/personaggi/eugenio-mario-raffo/p-f-xilografici/",
+    "file": "09-raffo-pf.html",
+    "description": "",
+    "modified": "2021-07-04",
+    "section": "personaggi"
+  },
+  {
+    "id": 10,
+    "title": "Xilografie",
+    "url": "/personaggi/eugenio-mario-raffo/xilografie/",
+    "file": "10-raffo-xilografie.html",
+    "description": "Selezione di xilografie esposte in occasione della mostra \"Eugenio Mario Raffo – L'Operaio Xilografo\", organizzata nel Dicembre 2014, nel duplice anniversario della nascita e della",
+    "modified": "2021-07-11",
+    "section": "personaggi"
+  },
+  {
+    "id": 11,
+    "title": "Variazioni",
+    "url": "/personaggi/eugenio-mario-raffo/variazioni/",
+    "file": "11-raffo-variazioni.html",
+    "description": "",
+    "modified": "2021-07-04",
+    "section": "personaggi"
+  },
+  {
+    "id": 12,
+    "title": "Buste Paga",
+    "url": "/personaggi/eugenio-mario-raffo/buste-paga-fit/",
+    "file": "12-raffo-buste-paga.html",
+    "description": "",
+    "modified": "2021-07-04",
+    "section": "personaggi"
+  },
+  {
+    "id": 13,
+    "title": "Giacomo Zolezzi - Biografia",
+    "url": "/personaggi/giacomo-zolezzi/",
+    "file": "13-giacomo-zolezzi-biografia.html",
+    "description": "Giacomo Zolezzi nacque a Sestri Levante nel 1911 in una storica casa di fronte alla spiaggia dei Balin, cuore pulsante delle attività pescherecce dell'epoca. Trascorse l'infanzia a",
+    "modified": "2021-07-25",
+    "section": "personaggi"
+  },
+  {
+    "id": 14,
+    "title": "Tino Nicolini - Biografia",
+    "url": "/personaggi/tino-nicolini/",
+    "file": "14-tino-nicolini-biografia.html",
+    "description": "Tino Nicolini nacque a Sestri Levante il 18 dicembre 1911. Frequentò le scuole elementari del paese sino alla classe quarta e, successivamente, si dedicò dapprima all'attività di \"",
+    "modified": "2021-07-26",
+    "section": "personaggi"
+  },
+  {
+    "id": 15,
+    "title": "Tino Nicolini – Poesie Scelte*",
+    "url": "/personaggi/tino-nicolini/poesie-scelte/",
+    "file": "15-nicolini-poesie-scelte.html",
+    "description": "Conosce Sestri (Levante) Se voei conosce Sestri veramenteno stae a da a mente sôlo a-e cartolinn-eche, \"scatte\" d'in to centro o da-e collinn-e,rendan l'idea ûn po lontanamente. Ma",
+    "modified": "2021-07-17",
+    "section": "personaggi"
+  },
+  {
+    "id": 16,
+    "title": "Giacomo Zolezzi – Pubblicazioni Scelte",
+    "url": "/personaggi/giacomo-zolezzi/pubblicazioni-scelte/",
+    "file": "16-zolezzi-pubblicazioni.html",
+    "description": "Tra le pubblicazioni scientifiche di Giacomo Zolezzi, dedicate prevalentemente all'ittiobiologia, all'itticoltura e alla pesca, ve ne sono alcune che risultano estremamente importa",
+    "modified": "2021-07-13",
+    "section": "personaggi"
+  },
+  {
+    "id": 17,
+    "title": "I nostri paesaggi e i nostri centri pescherecci – Sestri Levante",
+    "url": "/personaggi/giacomo-zolezzi/zolezzi-sestri/",
+    "file": "17-zolezzi-sestri.html",
+    "description": "",
+    "modified": "2021-07-11",
+    "section": "personaggi"
+  },
+  {
+    "id": 18,
+    "title": "I nostri paesaggi e i nostri centri pescherecci – Riva Trigoso",
+    "url": "/personaggi/giacomo-zolezzi/zolezzi-riva/",
+    "file": "18-zolezzi-riva.html",
+    "description": "",
+    "modified": "2021-07-11",
+    "section": "personaggi"
+  },
+  {
+    "id": 19,
+    "title": "La pesca all'amo in Liguria",
+    "url": "/personaggi/giacomo-zolezzi/zolezzi-amo/",
+    "file": "19-zolezzi-amo.html",
+    "description": "",
+    "modified": "2021-07-11",
+    "section": "personaggi"
+  },
+  {
+    "id": 20,
+    "title": "Notizie preliminari sulla biologia e sulla pesca dello Scomber scomber L. ligure",
+    "url": "/personaggi/giacomo-zolezzi/zolezzi-scomber/",
+    "file": "20-zolezzi-scomber.html",
+    "description": "",
+    "modified": "2021-07-11",
+    "section": "personaggi"
+  },
+  {
+    "id": 21,
+    "title": "Compagni d'officina – Un operaio xilografo: Eugenio Raffo",
+    "url": "/personaggi/eugenio-mario-raffo/descalzo-1933/",
+    "file": "21-compagni-d-officina-un-operaio-xilografo-eugenio-raffo.html",
+    "description": "",
+    "modified": "2021-07-11",
+    "section": "personaggi"
+  },
+  {
+    "id": 22,
+    "title": "La Salagione delle Acciughe",
+    "url": "/documenti/la-salagione-delle-acciughe/",
+    "file": "22-salagione-acciughe.html",
+    "description": "Giuliano Fogola ci conduce nel borgo marinaro di Renà, vulgo Briscùn (Riva Trigoso), alla scoperta dei segreti della salagione delle acciughe, un'antichissima tradizione che nasce",
+    "modified": "2021-07-11",
+    "section": "documenti"
+  },
+  {
+    "id": 23,
+    "title": "Viaggio nei Segreti di Riva Marinara",
+    "url": "/documenti/viaggio-nei-segreti-di-riva-marinara/",
+    "file": "23-viaggio-nei-segreti-di-riva-marinara.html",
+    "description": "Un viaggio emozionante attraverso i ricordi e i cimeli gelosamente custoditi da Lazzarin (Lazzaro Ghio), esperto di arte velica e marineria, e massimo cultore della storia dell'ant",
+    "modified": "2021-07-11",
+    "section": "documenti"
+  },
+  {
+    "id": 24,
+    "title": "Il Museo Contadino di Velva",
+    "url": "/documenti/il-museo-contadino-di-velva/",
+    "file": "24-il-museo-contadino-di-velva.html",
+    "description": "Il Museo Contadino di Velva è un allestimento unico nel suo genere, in quanto colloca strumenti e utensili storici nel loro ambiente originario di utilizzo, all'interno di locali d",
+    "modified": "2021-07-11",
+    "section": "documenti"
+  },
+  {
+    "id": 25,
+    "title": "Intervista allo Xilografo Eugenio Mario Raffo",
+    "url": "/personaggi/eugenio-mario-raffo/intervista/",
+    "file": "25-raffo-intervista.html",
+    "description": "Anto Enrico Canale intervista Eugenio Mario Raffo, xilografo di fama mondiale, nella trasmissione \"Fregugge de Sestri – Quattro parole con...\" (1993): INTERVISTA ALLO XILOGRAFO EUG",
+    "modified": "2021-07-13",
+    "section": "personaggi"
+  },
+  {
+    "id": 26,
+    "title": "Mostra \"L'Operaio Xilografo\" – 2014",
+    "url": "/personaggi/eugenio-mario-raffo/mostra-2014/",
+    "file": "26-mostra-2014.html",
+    "description": "Cerimonia di inaugurazione della mostra \"Eugenio Mario Raffo – L'Operaio Xilografo\", organizzata nel Dicembre 2014, nel duplice anniversario della nascita e della morte, nella Sala",
+    "modified": "2021-07-13",
+    "section": "personaggi"
+  },
+  {
+    "id": 27,
+    "title": "Intervista al poeta Tino Nicolini e al fratello Gianni",
+    "url": "/personaggi/tino-nicolini/intervista/",
+    "file": "27-intervista-al-poeta-tino-nicolini-e-al-fratello-gianni.html",
+    "description": "Anto Enrico Canale intervista il poeta dialettale ligure Tino Nicolini, giardiniere di Gilberto Govi, e il vulcanico fratello Gianni, nella trasmissione \"Fregugge de Sestri – Quatt",
+    "modified": "2021-07-13",
+    "section": "personaggi"
+  },
+  {
+    "id": 28,
+    "title": "Intervista al giornalista e scrittore Edoardo Bo",
+    "url": "/documenti/interviste/edoardo-bo-giornalista-e-scrittore/",
+    "file": "28-intervista-al-giornalista-e-scrittore-edoardo-bo.html",
+    "description": "Anto Enrico Canale intervista il giornalista, scrittore, esperto di leudi e organizzatore di eventi, poeta per sensibilità ed espressione, Edoardo Bo (Sestri Levante, 1923-2015), n",
+    "modified": "2021-07-15",
+    "section": "documenti"
+  },
+  {
+    "id": 29,
+    "title": "Intervista a \"Nico\" Bartolomeo Muzio, fondatore di Radio Eclisse 82",
+    "url": "/documenti/interviste/nico-muzio-fondatore-di-radio-eclisse-82/",
+    "file": "29-intervista-a-nico-bartolomeo-muzio-fondatore-di-radio-eclisse-82.html",
+    "description": "Anto Enrico Canale intervista \"Nico\" Bartolomeo Muzio, fondatore di Radio Eclisse 82, nella trasmissione \"Fregugge de Sestri – Quattro parole con...\" (1993). Riprese di Augusto Nat",
+    "modified": "2021-07-13",
+    "section": "documenti"
+  },
+  {
+    "id": 30,
+    "title": "Intervista a Gianni Raffo \"Fessûa\" e al Complesso Canterini del Leudo",
+    "url": "/documenti/interviste/gianni-raffo-complesso-o-leudo/",
+    "file": "30-intervista-a-gianni-raffo-fessua-e-al-complesso-canterini-del-leudo.html",
+    "description": "Anto Enrico Canale intervista il cantautore dialettale ligure e compositore di \"listeuie\" Gianni Raffo \"Fessûa\" e il Complesso Canterini dell'associazione culturale \"O Leûdo\" (Sest",
+    "modified": "2021-07-13",
+    "section": "documenti"
+  },
+  {
+    "id": 31,
+    "title": "Intervista al modellista navale Ferdinando Bregante",
+    "url": "/documenti/interviste/ferdinando-bregante-modellista-navale/",
+    "file": "31-intervista-al-modellista-navale-ferdinando-bregante.html",
+    "description": "Anto Enrico Canale intervista il modellista navale, \"cristezzante\", presepista, cantante e commerciante di vini Ferdinando Bregante, di Sestri Levante, nella trasmissione \"Fregugge",
+    "modified": "2021-07-14",
+    "section": "documenti"
+  },
+  {
+    "id": 32,
+    "title": "Intervista all'enotecnico Luciano Alloro, Sestri Levante",
+    "url": "/documenti/interviste/luciano-alloro-enotecnico/",
+    "file": "32-intervista-all-enotecnico-luciano-alloro-sestri-levante.html",
+    "description": "Anto Enrico Canale intervista l'enotecnico Luciano Alloro, di Sestri Levante, nella trasmissione \"Fregugge de Sestri – Quattro parole con...\" (1993): INTERVISTA ALL'ENOTECNICO LUCI",
+    "modified": "2021-07-13",
+    "section": "documenti"
+  },
+  {
+    "id": 33,
+    "title": "Intervista al restauratore di mobili antichi Andrea Belano",
+    "url": "/documenti/interviste/andrea-belano-restauratore/",
+    "file": "33-intervista-al-restauratore-di-mobili-antichi-andrea-belano.html",
+    "description": "Anto Enrico Canale intervista il restauratore di mobili antichi Andrea Belano, di Sestri Levante, nella trasmissione \"Fregugge de Sestri – Quattro parole con...\" (1993): INTERVISTA",
+    "modified": "2021-07-13",
+    "section": "documenti"
+  },
+  {
+    "id": 34,
+    "title": "Mostra \"Il Mare e il suo Entroterra\", Sestri Levante 2018",
+    "url": "/personaggi/giacomo-zolezzi/mostra-2018/",
+    "file": "34-mostra-il-mare-e-il-suo-entroterra-sestri-levante-2018.html",
+    "description": "Fotografie e documenti sul biologo marino sestrese Giacomo Zolezzi e sull'estrazione e lavorazione dell'agar-agar presso la ditta Savoma Medicinali S.A., esposti in occasione della",
+    "modified": "2021-07-17",
+    "section": "personaggi"
+  },
+  {
+    "id": 35,
+    "title": "Agar agar",
+    "url": "/personaggi/giacomo-zolezzi/agar-agar/",
+    "file": "35-agar-agar.html",
+    "description": "Pannello promozionale – Savoma Medicinali S.A. – Utilizzi dell'agar agar Estratto dalla Gazzetta di Parma, 27 Dicembre 1942 Estratto da Il Policlinico – Periodico di Medicina, Chir",
+    "modified": "2021-07-25",
+    "section": "personaggi"
+  },
+  {
+    "id": 36,
+    "title": "Timoleone Civicchioni – Biografia",
+    "url": "/personaggi/timoleone-civicchioni/",
+    "file": "36-timoleone-civicchioni-biografia.html",
+    "description": "Timoleone Civicchioni nacque a Piegaro, piccolo comune in provincia di Perugia, il 10 Giugno 1868, da Francesco Civicchioni e Assunta Marzocchelli. Sin da ragazzo si appassionò all",
+    "modified": "2021-07-25",
+    "section": "personaggi"
+  },
+  {
+    "id": 37,
+    "title": "Edizioni Civicchioni",
+    "url": "/personaggi/timoleone-civicchioni/edizioni-civicchioni/",
+    "file": "37-edizioni-civicchioni.html",
+    "description": "",
+    "modified": "2021-07-25",
+    "section": "personaggi"
+  },
+  {
+    "id": 38,
+    "title": "Cartoline Scelte",
+    "url": "/personaggi/timoleone-civicchioni/cartoline-scelte/",
+    "file": "38-cartoline-scelte.html",
+    "description": "",
+    "modified": "2021-07-25",
+    "section": "personaggi"
+  }
+]

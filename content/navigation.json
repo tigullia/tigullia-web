@@ -1,0 +1,370 @@
+[
+  {
+    "id": 101,
+    "title": "Home",
+    "parent_id": 1,
+    "level": 1,
+    "article": 2,
+    "url": "/"
+  },
+  {
+    "id": 114,
+    "title": "Personaggi",
+    "parent_id": 1,
+    "level": 1,
+    "article": 0,
+    "url": "/personaggi/"
+  },
+  {
+    "id": 115,
+    "title": "Eugenio Mario Raffo",
+    "parent_id": 114,
+    "level": 2,
+    "article": 3,
+    "url": "/personaggi/eugenio-mario-raffo/"
+  },
+  {
+    "id": 111,
+    "title": "Biografia",
+    "parent_id": 115,
+    "level": 3,
+    "article": 3,
+    "url": "/personaggi/eugenio-mario-raffo/"
+  },
+  {
+    "id": 226,
+    "title": "Intervista",
+    "parent_id": 115,
+    "level": 3,
+    "article": 25,
+    "url": "/personaggi/eugenio-mario-raffo/intervista/"
+  },
+  {
+    "id": 113,
+    "title": "Xilografie",
+    "parent_id": 115,
+    "level": 3,
+    "article": 10,
+    "url": "/personaggi/eugenio-mario-raffo/xilografie/"
+  },
+  {
+    "id": 112,
+    "title": "Ex Libris Xilografici",
+    "parent_id": 115,
+    "level": 3,
+    "article": 6,
+    "url": "/personaggi/eugenio-mario-raffo/ex-libris-xilografici/"
+  },
+  {
+    "id": 124,
+    "title": "P.F. Xilografici",
+    "parent_id": 115,
+    "level": 3,
+    "article": 9,
+    "url": "/personaggi/eugenio-mario-raffo/p-f-xilografici/"
+  },
+  {
+    "id": 125,
+    "title": "Buste Paga FIT",
+    "parent_id": 115,
+    "level": 3,
+    "article": 12,
+    "url": "/personaggi/eugenio-mario-raffo/buste-paga-fit/"
+  },
+  {
+    "id": 126,
+    "title": "I Caduti di Superga",
+    "parent_id": 115,
+    "level": 3,
+    "article": 7,
+    "url": "/personaggi/eugenio-mario-raffo/caduti-di-superga/"
+  },
+  {
+    "id": 127,
+    "title": "Fabio Riva",
+    "parent_id": 115,
+    "level": 3,
+    "article": 8,
+    "url": "/personaggi/eugenio-mario-raffo/fabio-riva/"
+  },
+  {
+    "id": 123,
+    "title": "Variazioni",
+    "parent_id": 115,
+    "level": 3,
+    "article": 11,
+    "url": "/personaggi/eugenio-mario-raffo/variazioni/"
+  },
+  {
+    "id": 220,
+    "title": "Descalzo 1933",
+    "parent_id": 115,
+    "level": 3,
+    "article": 21,
+    "url": "/personaggi/eugenio-mario-raffo/descalzo-1933/"
+  },
+  {
+    "id": 227,
+    "title": "Mostra 2014",
+    "parent_id": 115,
+    "level": 3,
+    "article": 26,
+    "url": "/personaggi/eugenio-mario-raffo/mostra-2014/"
+  },
+  {
+    "id": 206,
+    "title": "Giacomo Zolezzi",
+    "parent_id": 114,
+    "level": 2,
+    "article": 13,
+    "url": "/personaggi/giacomo-zolezzi/"
+  },
+  {
+    "id": 207,
+    "title": "Biografia",
+    "parent_id": 206,
+    "level": 3,
+    "article": 13,
+    "url": "/personaggi/giacomo-zolezzi/"
+  },
+  {
+    "id": 216,
+    "title": "Zolezzi Sestri",
+    "parent_id": 206,
+    "level": 3,
+    "article": 17,
+    "url": "/personaggi/giacomo-zolezzi/zolezzi-sestri/"
+  },
+  {
+    "id": 217,
+    "title": "Zolezzi Riva",
+    "parent_id": 206,
+    "level": 3,
+    "article": 18,
+    "url": "/personaggi/giacomo-zolezzi/zolezzi-riva/"
+  },
+  {
+    "id": 218,
+    "title": "Zolezzi Amo",
+    "parent_id": 206,
+    "level": 3,
+    "article": 19,
+    "url": "/personaggi/giacomo-zolezzi/zolezzi-amo/"
+  },
+  {
+    "id": 219,
+    "title": "Zolezzi Scomber",
+    "parent_id": 206,
+    "level": 3,
+    "article": 20,
+    "url": "/personaggi/giacomo-zolezzi/zolezzi-scomber/"
+  },
+  {
+    "id": 221,
+    "title": "Pubblicazioni Scelte",
+    "parent_id": 206,
+    "level": 3,
+    "article": 16,
+    "url": "/personaggi/giacomo-zolezzi/pubblicazioni-scelte/"
+  },
+  {
+    "id": 238,
+    "title": "Mostra 2018",
+    "parent_id": 206,
+    "level": 3,
+    "article": 34,
+    "url": "/personaggi/giacomo-zolezzi/mostra-2018/"
+  },
+  {
+    "id": 239,
+    "title": "Agar agar",
+    "parent_id": 206,
+    "level": 3,
+    "article": 35,
+    "url": "/personaggi/giacomo-zolezzi/agar-agar/"
+  },
+  {
+    "id": 121,
+    "title": "Giulio Luigi Podestà",
+    "parent_id": 114,
+    "level": 2,
+    "article": 4,
+    "url": "/personaggi/giulio-luigi-podesta/"
+  },
+  {
+    "id": 122,
+    "title": "Biografia",
+    "parent_id": 121,
+    "level": 3,
+    "article": 4,
+    "url": "/personaggi/giulio-luigi-podesta/"
+  },
+  {
+    "id": 208,
+    "title": "Tino Nicolini",
+    "parent_id": 114,
+    "level": 2,
+    "article": 14,
+    "url": "/personaggi/tino-nicolini/"
+  },
+  {
+    "id": 209,
+    "title": "Biografia",
+    "parent_id": 208,
+    "level": 3,
+    "article": 14,
+    "url": "/personaggi/tino-nicolini/"
+  },
+  {
+    "id": 215,
+    "title": "Poesie Scelte",
+    "parent_id": 208,
+    "level": 3,
+    "article": 15,
+    "url": "/personaggi/tino-nicolini/poesie-scelte/"
+  },
+  {
+    "id": 228,
+    "title": "Intervista",
+    "parent_id": 208,
+    "level": 3,
+    "article": 27,
+    "url": "/personaggi/tino-nicolini/intervista/"
+  },
+  {
+    "id": 240,
+    "title": "Timoleone Civicchioni",
+    "parent_id": 114,
+    "level": 2,
+    "article": 36,
+    "url": "/personaggi/timoleone-civicchioni/"
+  },
+  {
+    "id": 241,
+    "title": "Biografia",
+    "parent_id": 240,
+    "level": 3,
+    "article": 36,
+    "url": "/personaggi/timoleone-civicchioni/"
+  },
+  {
+    "id": 243,
+    "title": "Cartoline Scelte",
+    "parent_id": 240,
+    "level": 3,
+    "article": 38,
+    "url": "/personaggi/timoleone-civicchioni/cartoline-scelte/"
+  },
+  {
+    "id": 242,
+    "title": "Edizioni Civicchioni",
+    "parent_id": 240,
+    "level": 3,
+    "article": 37,
+    "url": "/personaggi/timoleone-civicchioni/edizioni-civicchioni/"
+  },
+  {
+    "id": 222,
+    "title": "Documenti",
+    "parent_id": 1,
+    "level": 1,
+    "article": 0,
+    "url": "/documenti/"
+  },
+  {
+    "id": 223,
+    "title": "La Salagione delle Acciughe",
+    "parent_id": 222,
+    "level": 2,
+    "article": 22,
+    "url": "/documenti/la-salagione-delle-acciughe/"
+  },
+  {
+    "id": 224,
+    "title": "Viaggio nei Segreti di Riva Marinara",
+    "parent_id": 222,
+    "level": 2,
+    "article": 23,
+    "url": "/documenti/viaggio-nei-segreti-di-riva-marinara/"
+  },
+  {
+    "id": 225,
+    "title": "Il Museo Contadino di Velva",
+    "parent_id": 222,
+    "level": 2,
+    "article": 24,
+    "url": "/documenti/il-museo-contadino-di-velva/"
+  },
+  {
+    "id": 229,
+    "title": "Interviste",
+    "parent_id": 222,
+    "level": 2,
+    "article": 0,
+    "url": "/documenti/interviste/"
+  },
+  {
+    "id": 230,
+    "title": "Edoardo Bo, giornalista e scrittore",
+    "parent_id": 229,
+    "level": 3,
+    "article": 28,
+    "url": "/documenti/interviste/edoardo-bo-giornalista-e-scrittore/"
+  },
+  {
+    "id": 231,
+    "title": "Nico Muzio, fondatore di Radio Eclisse 82",
+    "parent_id": 229,
+    "level": 3,
+    "article": 29,
+    "url": "/documenti/interviste/nico-muzio-fondatore-di-radio-eclisse-82/"
+  },
+  {
+    "id": 232,
+    "title": "Gianni Raffo, Complesso O Leûdo",
+    "parent_id": 229,
+    "level": 3,
+    "article": 30,
+    "url": "/documenti/interviste/gianni-raffo-complesso-o-leudo/"
+  },
+  {
+    "id": 233,
+    "title": "Ferdinando Bregante, modellista navale",
+    "parent_id": 229,
+    "level": 3,
+    "article": 31,
+    "url": "/documenti/interviste/ferdinando-bregante-modellista-navale/"
+  },
+  {
+    "id": 234,
+    "title": "Luciano Alloro, enotecnico",
+    "parent_id": 229,
+    "level": 3,
+    "article": 32,
+    "url": "/documenti/interviste/luciano-alloro-enotecnico/"
+  },
+  {
+    "id": 235,
+    "title": "Andrea Belano, restauratore",
+    "parent_id": 229,
+    "level": 3,
+    "article": 33,
+    "url": "/documenti/interviste/andrea-belano-restauratore/"
+  },
+  {
+    "id": 236,
+    "title": "Eugenio Mario Raffo, xilografo",
+    "parent_id": 229,
+    "level": 3,
+    "article": 25,
+    "url": "/personaggi/eugenio-mario-raffo/intervista/"
+  },
+  {
+    "id": 237,
+    "title": "Tino Nicolini, poeta",
+    "parent_id": 229,
+    "level": 3,
+    "article": 27,
+    "url": "/personaggi/tino-nicolini/intervista/"
+  }
+]
