@@ -16,7 +16,7 @@ const plain = html => html.replace(/\[\[.*?\]\]/g, ' ').replace(/<[^>]*>/g, ' ')
 const people = [
  {id:3, name:'Eugenio Mario Raffo', image:'/images/Raffo/Raffo_foto_250.jpg', label:'Xilografia'},
  {id:13, name:'Giacomo Zolezzi', image:'/images/Zolezzi/ZolezziG.jpg', label:'Ricerca e mare'},
- {id:4, name:'Giulio Luigi Podestà', image:'/images/Podesta/GL_Podesta_g.jpg', label:'Poesia'},
+ {id:4, name:'Giulio Luigi Podestà', image:'/images/Podesta/GL_Podesta_g.jpg', label:'Xilografia'},
  {id:14, name:'Tino Nicolini', image:'/images/Nicolini/Tino_Nicolini.jpg', label:'Poesia'},
  {id:36, name:'Timoleone Civicchioni', image:'/images/Civicchioni/timoleone_civicchioni_250.jpg', label:'Editoria e cartoline'}
 ];
