@@ -79,7 +79,12 @@ function layout({title,current,description='',content,home=false,aside='',redire
 <header class="site-header"><div class="header-inner"><a class="brand" href="${url('/')}" aria-label="Tigullia, pagina iniziale"><img src="${url('/images/logo-small.png')}" alt="" width="56" height="56"><span>TIGULLIA<small>Riviera Ligure di Levante</small></span></a><button class="menu-toggle" type="button" aria-controls="navigation" aria-expanded="false">Menu <span aria-hidden="true">☰</span></button>${menu(current)}</div></header>
 <div class="panorama"><img src="${url('/images/Sertorio_Tigullia.jpg')}" alt="Panorama storico della Riviera Ligure di Levante" width="1200" height="155"></div>
 <main id="contenuto" class="container${home?' home':''}">${breadcrumbs(current)}<div class="page-grid${aside?' has-sidebar':''}">${aside}<div class="page-content"><header class="page-heading"><p class="eyebrow">${home?'Memorie della Riviera':current.startsWith('/personaggi/')?'Personaggi':current.startsWith('/documenti/')?'Documenti':'Tigullia'}</p><h1>${esc(title)}</h1></header>${content}</div></div></main>
-<footer class="site-footer"><div><strong>TIGULLIA</strong><p>Documenti, immagini e personaggi<br>della Riviera Ligure di Levante</p></div><div>${link('/personaggi/','Personaggi',current)}${link('/documenti/','Documenti',current)}${link('/cerca/','Cerca nell’archivio',current)}<a href="#contenuto">Torna in alto ↑</a></div></footer>
+<footer class="site-footer"><div><strong>TIGULLIA</strong><p>Documenti, immagini e personaggi<br>della Riviera Ligure di Levante</p></div><div>${link('/personaggi/','Personaggi',current)}${link('/documenti/','Documenti',current)}${link('/cerca/','Cerca nell’archivio',current)}<a href="#contenuto">Torna in alto ↑</a>
+<p>
+  © 2014-<span data-copyright-year>2026</span>
+  – Tigullia – All Rights Reserved
+</p>
+</div></footer>
 <dialog id="lightbox" aria-label="Visualizzatore immagini"><div class="lightbox-tools"><button type="button" data-prev aria-label="Immagine precedente">←</button><button type="button" data-next aria-label="Immagine successiva">→</button><button type="button" data-close>Chiudi ×</button></div><img id="full-image" alt=""></dialog>
 </body></html>`;
 }
